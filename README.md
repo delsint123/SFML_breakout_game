@@ -9,4 +9,7 @@ The game consists of concepts including functions, loops, switch statements, hea
 The goal of this project was to create a game like breakout complete with a ball, paddle and bricks. 
 
 This project was uploaded to Github after being completed so each commit has nothing to do with the completion of the project. Previous iterations will be stored in folders marked with their corresponding numbers in the order of which they were completed. Each folder has their own README.md page explaining the general changes/updates to the game.
+
+Note: an initial template was given to begin the project; a small chunk of the code was written by the professor of the course.
+
 *****************Ignore 2nd commit desciription********************
