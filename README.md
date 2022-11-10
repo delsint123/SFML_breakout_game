@@ -1,5 +1,5 @@
 # SFML_breakout_game
-Breakout game using SFML (Simple Fast Library Multimedia Library) in C++
+Breakout game using SFML (Simple Fast Multimedia Library) in C++
 
 Created during Spring 2022 Semester at Florida Gulf Course Univerisity as part of the course COP 2001: Programming Methodologies.
 
