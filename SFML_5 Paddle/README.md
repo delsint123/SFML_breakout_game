@@ -1,1 +1,1 @@
-
+In this iteration, I was responsible for creating the paddle that is moved by the player. This caused some other features that needed to be implemented such as the collision detection for the ball and the paddle. The starting location and speed of the ball was also defined. A start flag was also added. The game over functionality was also added when the ball reaches the bottom and did not bounce off the paddle.
