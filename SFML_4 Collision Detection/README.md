@@ -1,1 +1,1 @@
-
+In this iteration, I was responsible for implementing collision detection between the ball and the borders. This was done by measuring the distance from the center of the ball to the closest relative point on the outside of the rectangle. This was further implemented/calculated using geometry.
