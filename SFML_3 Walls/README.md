@@ -1,1 +1,1 @@
-
+In this iteration, I was responsible for adding the borders to the game window. This was also done using coordinates. Using SFMLs prefedined rectangle shape, the borders are fixed and are needed to provide collision detection. Collision detection is implemented in the next iteration. 
