@@ -1,1 +1,1 @@
-
+In this iteration, I was responsible for modifying existing code to animate the ball so that it can move around on or off the screen. This was done using coordinates and setting the velocity of the created ball.
